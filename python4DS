@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Automobile Market Analysis – Data Science Project</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    h1, h2 {
+      color: #2c3e50;
+      text-align: center;
+    }
+    .section {
+      margin-bottom: 40px;
+    }
+    ul {
+      line-height: 1.6;
+    }
+    p {
+      font-size: 16px;
+    }
+    .container {
+      max-width: 900px;
+      margin: auto;
+      background-color: #fff;
+      padding: 30px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <h1>🚗 Automobile Market Analysis</h1>
+
+    <div class="section">
+      <p>This project was developed as part of the <strong>Python for Data Science</strong> module in my Postgraduate Program in Data Science. The objective was to analyze a dataset from an automobile company to uncover insights into customer demand and identify target demographics for various vehicle segments.</p>
+    </div>
+
+    <div class="section">
+      <h2>🔍 Project Objectives</h2>
+      <ul>
+        <li>Perform Exploratory Data Analysis (EDA) to understand customer behavior and market trends.</li>
+        <li>Segment customers based on demographics such as age, income, and region.</li>
+        <li>Identify high-demand vehicle categories and underperforming segments.</li>
+        <li>Generate actionable insights to support marketing and product strategy.</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>📊 Tools & Techniques</h2>
+      <ul>
+        <li>Python</li>
+        <li>Pandas, NumPy for data manipulation</li>
+        <li>Matplotlib, Seaborn for data visualization</li>
+        <li>Jupyter Notebook for analysis and reporting</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>📈 Key Outcomes</h2>
+      <ul>
+        <li>Identified top-performing vehicle segments and their associated customer profiles.</li>
+        <li>Visualized regional and demographic trends influencing purchase decisions.</li>
+        <li>Provided strategic recommendations to align product offerings with market demand.</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <p>This project strengthened my ability to translate raw data into meaningful business insights and laid the foundation for predictive modeling and data-driven decision making in future modules.</p>
+    </div>
+  </div>
+
+</body>
+</html>
